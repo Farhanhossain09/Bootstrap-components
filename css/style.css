@@ -1,0 +1,13 @@
+header{
+	background-color: lime;
+	margin-bottom: 5px;
+}
+
+.border-info{
+	background-color: #17a2b8;
+}
+
+h1{
+	font-size: 2.5rem;
+	text-align: center;
+}
